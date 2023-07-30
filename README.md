@@ -1,1 +1,1 @@
-# JavaScript-Slot-Machine# slot-machine
+# JavaScript-Slot-Machine
